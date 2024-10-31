@@ -1,4 +1,5 @@
-# Discord bot for sellauth using js
+# Discord bot for sellauth
+if you need help setting up dm: samowamo1 on discord and ill try and help
 # How to setup
 1. install everything in the install.txt file
 2. go to the .env file and put in your tokens
