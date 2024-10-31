@@ -1,0 +1,5 @@
+npm install node
+npm install discord.js
+npm install nodemon
+npm install axios
+npm install dotenv
