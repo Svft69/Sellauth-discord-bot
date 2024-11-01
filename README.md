@@ -1,6 +1,8 @@
 # Discord bot for sellauth
-if you need help setting up dm: samowamo1 on discord and ill try and help
+if you need help setting up dm: samowamo1 on discord and ill try and help 
+
 if you have any other commands you want added please feel free to dm me and ill add them
+
 on line 840 in index.js is where you can set your customer role
 # How to setup
 1. install everything in the install.txt file
